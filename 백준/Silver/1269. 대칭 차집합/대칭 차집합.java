@@ -25,7 +25,12 @@ public class Main {
                 set.add(noDupNum);
             }
         }
-
-        System.out.println(set.size());
+        
+        bw.write(Integer.toString(set.size()));
+        bw.newLine();
+        
+        bw.flush();
+        br.close();
+        bw.close();
     }
 }
