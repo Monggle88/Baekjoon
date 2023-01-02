@@ -1,4 +1,4 @@
-# [Bronze IV] 곱셈 - 2588 
+# [Bronze III] 곱셈 - 2588 
 
 [문제 링크](https://www.acmicpc.net/problem/2588) 
 
