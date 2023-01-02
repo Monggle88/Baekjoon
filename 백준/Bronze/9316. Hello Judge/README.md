@@ -1,4 +1,4 @@
-# [Bronze III] Hello Judge - 9316 
+# [Bronze IV] Hello Judge - 9316 
 
 [문제 링크](https://www.acmicpc.net/problem/9316) 
 
